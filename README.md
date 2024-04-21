@@ -1,6 +1,6 @@
 
 # BloggingPlatform
-Web blogging platform using c# with ASP.NET Core MVC, SqlLite, Entity Framework, and Auth0.
+Web blogging platform using c# with ASP.NET Core MVC, Sql, Entity Framework, and Auth0.
 
 ## How to write a post
 1. Login or register
